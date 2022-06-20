@@ -1,5 +1,11 @@
 {
   "version" : "1.0.0",
   "disable" : null,
-  "requiredInstallableUnits" : [ ]
+  "requiredInstallableUnits" : [ {
+    "id" : "org.talend.lite.di.component.azuredlsgen2.feature.feature.group"
+  }, {
+    "id" : "org.talend.studio.components.tcompv0.azurestorage.feature.feature.group"
+  }, {
+    "id" : "org.talend.studio.components.tcompv0.snowflakeee.feature.feature.group"
+  } ]
 }
